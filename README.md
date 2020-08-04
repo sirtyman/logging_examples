@@ -1,2 +1,2 @@
 # logging_examples
-Examples of Python logging
+Examples of Python centralized logging.
